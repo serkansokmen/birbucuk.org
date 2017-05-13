@@ -1,0 +1,16 @@
+<nav class="navbar navbar-fixed-top navbar-light bg-faded navbar-toggleable-md">
+  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <a class="navbar-brand" pageScroll href="#main">birbucuk.com</a>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <div class="dropdown">
+      <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Yazılar
+      </button>
+      <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+        <a *ngFor="let post of posts" class="dropdown-item" [routerLink]="['/', post?.slug]" [href]="'#' + post?.slug" pageScroll [innerHTML]="post?.title"></a>
+      </div>
+    </div>
+  </div>
+</nav>
