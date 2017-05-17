@@ -3,19 +3,6 @@ body {
   padding-bottom: 80px;
 }
 
-.footer {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  /* Set the fixed height of the footer here */
-  height: 60px;
-  background-color: #f5f5f5;
-
-  .container {
-    padding-top: 15px;
-  }
-}
-
 .container {
   width: auto;
   max-width: 720px;
@@ -26,8 +13,8 @@ body {
   }
 }
 
-@media screen and (max-width: 400px) {
-  .dropdown-toggle::after {
-    content: none;
+@media screen and (max-width: 425px) {
+  body {
+    padding-bottom: 0;
   }
 }

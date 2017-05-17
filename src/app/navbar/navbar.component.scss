@@ -1,6 +1,10 @@
 .navbar {
     flex-direction: row;
     align-items: center;
+
+    img {
+        margin-left: 15px;
+    }
 }
 
 .navbar-brand-container {
