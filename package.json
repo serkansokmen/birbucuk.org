@@ -1,5 +1,5 @@
 {
-  "name": "bb",
+  "name": "birbucuk",
   "version": "1.0.1",
   "license": "MIT",
   "scripts": {
@@ -9,7 +9,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy": "ng build --prod --base-href 'https://serkansokmen.github.io/birbucuk.com/'; ngh --no-silent"
+    "github-pages": "ng build --prod --base-href 'https://serkansokmen.github.io/birbucuk.com/'; ngh --no-silent",
+    "deploy": "ng build --prod; surge dist birbucuk.org"
   },
   "private": true,
   "dependencies": {
