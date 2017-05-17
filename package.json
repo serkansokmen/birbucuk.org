@@ -1,14 +1,16 @@
 {
-  "name": "bb",
-  "version": "1.0.1",
+  "name": "birbucuk",
+  "version": "1.0.2",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build -aot -prod",
+    "build": "ng build --prod",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "github-pages": "ng build --prod --base-href 'https://serkansokmen.github.io/birbucuk.com/'; ngh --no-silent",
+    "deploy": "ng build --prod; surge dist birbucuk.org"
   },
   "private": true,
   "dependencies": {

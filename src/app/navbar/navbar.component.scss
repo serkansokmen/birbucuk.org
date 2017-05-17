@@ -1,0 +1,33 @@
+.navbar {
+    flex-direction: row;
+    align-items: center;
+
+    img {
+        margin-left: 15px;
+    }
+}
+
+.navbar-brand-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.navbar-brand {
+    display: flex;
+    flex-direction: column;
+    padding: 12.5px 15px;
+}
+
+span.text-muted {
+    font-size: 14px;
+}
+
+.dropdown {
+    margin-right: 10px;
+}
+
+.bg-faded {
+  background: rgba(250, 250, 250, 1.0);
+}
