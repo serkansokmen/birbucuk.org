@@ -9,14 +9,14 @@ export class BlogService {
   constructor(private http: Http) {}
 
   getPostList() {
-    return this.http.get(`/assets/blog.json`)
+    return this.http.get(`assets/blog.json`)
               .toPromise()
               .then(response => response.json())
               .catch(this.handleError);
   }
 
   getPostDetail(slug: string) {
-    return this.http.get(`/assets/blog.json`)
+    return this.http.get(`assets/blog.json`)
               .toPromise()
               .then(response => {
                 let json = response.json();
