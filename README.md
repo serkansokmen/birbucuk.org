@@ -1,6 +1,6 @@
 # birbucuk.com
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
 
 ## Development server
 
@@ -16,4 +16,4 @@ Run `yarn build` to build the project. The build artifacts will be stored in the
 
 ## Deploy
 
-Run `yarn deploy` to build and deploy application to birbucuk.org
+Run `yarn deploy` to build **and** deploy application to birbucuk.org
