@@ -13,4 +13,4 @@ Akademik makaleleri örnek alarak, toplantı metninin ortak üretim olarak sunul
 Katılımcılar tarafından geçmişte üretilmiş olan ‘su’ya dokunur işlerden bir seçkiye de mavi bağlantılar aracılığı ile ulaşabilirsiniz.
 
 Toplantı metni için tıklayın:
-[birbuçuk_SU.pdf](https://drive.google.com/open?id=0B09bghzxCMQdcTVxZjR4ei1ZeXM "Toplantı Metni")
+[birbuçuk_SU.pdf](https://drive.google.com/open?id=0B7Y5QjvCHgjuM1NfS3ZNcTBGN3M "Toplantı Metni")
