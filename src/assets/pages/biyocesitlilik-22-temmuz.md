@@ -4,6 +4,6 @@ Biyoçeşitlilik
 22 Temmuz
 ---------
 
-İkinci toplantı "Biyoçeşitlilik", 22 Temmuz tarihinde Studio-X İstanbul'da gerçekleşecektir.
+"Biyoçeşitlilik" toplantısı Burcu Meltem Arık, Emrah Çoraman, Berin Ertürk, Işık Güner, Kerem Ozan Bayraktar, Ahmet Doğu İpek'in katılımı ve Ayşe Ceren Sarı, Yasemin Ülgen, Serkan Kaptan moderasyonunda Studio-X'de gerçekleşmiştir.
 
-Dinleyici olarak katılmak için lütfen bize e-posta ile konuya ve toplantıya dair ilginizi bildirin.
+Çıktılar Ağustos toplantısı öncesinde sitemizden ve sosyal medya hesaplarından paylaşılacaktır.
