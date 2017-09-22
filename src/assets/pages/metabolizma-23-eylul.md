@@ -6,4 +6,4 @@ Metabolizma
 
 **birbuçuk ekibi olarak üçüncü soluğu “metabolizma” ile alıyoruz.**
 
-Detaylar için sosyal medya hesaplarımızı takipte kalın.
+Bize e-posta ile ulaşarak 23 Eylül, 11:00'da Studio-X'te gerçekleşecek toplantımıza dinleyici olarak katılabilirsiniz. 

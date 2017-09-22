@@ -1,9 +1,9 @@
-Metabolizma
-===========
+Sınırlar
+========
 
-23 Eylül
---------
+7 Ekim
+------
 
-**birbuçuk ekibi olarak üçüncü soluğu “metabolizma” ile alıyoruz.**
+**birbuçuk ekibi olarak dördüncü soluğumuz “sınırlar”.**
 
 Detaylar için sosyal medya hesaplarımızı takipte kalın.
