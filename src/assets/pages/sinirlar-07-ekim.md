@@ -1,9 +1,9 @@
 Sınırlar
 ========
 
-7 Ekim
-------
+7 Ekim 2017
+-----------
 
 **birbuçuk ekibi olarak dördüncü soluğumuz “sınırlar”.**
 
-Detaylar için sosyal medya hesaplarımızı takipte kalın.
+"Sınırlar" toplantısını Studio-X'te Neşe Özgen, Murat Can Tonbil, Alper Şen, Hale Tenger, Serkan Taycan ve Evrim Kavcar'ın katılımıyla gerçekleştirdik. Toplantıdan türeyecek ses, imaj ve dökümanlar düzenlendikten sonra dijital ortamda paylaşılacaktır.
