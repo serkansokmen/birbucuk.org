@@ -1,10 +1,10 @@
-İklim
+Maden
 =====
 
-2 Aralık 2017
+24 Şubat 2018
 -------------
 
 
-“İklim” toplantımız 2 Aralık tarihinde StudioX-İstanbul‘da Yasemin Ülgen ve Ayşe Ceren Sarı’nın moderasyonu ve Ümit Şahin, Mahir Ilgaz, Barış Tut, Ümit Kıvanç, Aslıhan Demirtaş'ın katılımı ile gerçekleşmiştir.
+“Maden” toplantımız 24 Şubat tarihinde StudioX-İstanbul‘da Yasemin Ülgen, Ayşe Ceren Sarı, Serkan Kaptan’ın moderasyonu ve Fikret Adaman, Eren Dağıstanlı, Sencer Vardarman, Tuğçe Tuna, Bekir Dindar'ın katılımı ile gerçekleşmiştir.
 
 Üretilen toplantı metni sosyal medya hesaplarımızda paylaşılacaktır.
