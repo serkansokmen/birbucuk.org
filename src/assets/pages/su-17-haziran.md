@@ -1,8 +1,8 @@
 Su
 ==
 
-17 Haziran
-----------
+17 Haziran 2017
+---------------
 
 **birbuçuk ekibi olarak soluklanmaya “su” konusuyla başladık.**
 
