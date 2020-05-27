@@ -2619,10 +2619,10 @@ jasmine-core@~2.6.0:
   version "2.6.0"
   resolved "https://registry.yarnpkg.com/jasmine-core/-/jasmine-core-2.6.0.tgz#95e80740cc4d2c16741750e8b79e53c7ee15056a"
 
-jasmine-spec-reporter@3.2.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/jasmine-spec-reporter/-/jasmine-spec-reporter-3.2.0.tgz#fdbe85a80ccdd3b276746bc77fde83c1ce773eff"
-  integrity sha1-/b6FqAzN07J2dGvHf96Dwc53Pv8=
+jasmine-spec-reporter@3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/jasmine-spec-reporter/-/jasmine-spec-reporter-3.3.0.tgz#c63c3d43bacfd16e6da86c46d265957e0075f14c"
+  integrity sha1-xjw9Q7rP0W5tqGxG0mWVfgB18Uw=
   dependencies:
     colors "1.1.2"
 
